@@ -30,9 +30,10 @@ h2{
     text-decoration: none;
     background-image: linear-gradient(red, orange);
     padding: 5px 15px;
-    font-weight: 600;
+    font-weight: 500;
     color: whitesmoke;
     border-radius: 5px;
+    box-shadow: 5px 5px 5px gray;
 }
 .top-banner{
     background-image: url(top-banner.png);
